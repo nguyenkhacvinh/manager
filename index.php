@@ -1,6 +1,6 @@
 <title>Cài đặt thành công</title>
 
-<h1></h1>
+<h1>123</h1>
 
 Hãy đăng nhập vào <a href="/manager">manager</a> để quản lí file hoặc up code. Xem thêm về thông tin gói php của Heroku <a href="/info.php">tại đây</a>
 
