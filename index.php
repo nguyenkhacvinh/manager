@@ -1,12 +1,13 @@
 <title>Cài đặt thành công</title>
 
-<h1>Chúc mừng bạn đã cài đặt thành công Heroku App!</h1>
+<h1></h1>
 
 Hãy đăng nhập vào <a href="/manager">manager</a> để quản lí file hoặc up code. Xem thêm về thông tin gói php của Heroku <a href="/info.php">tại đây</a>
 
 Sau khi đăng nhập thành công hãy xóa các file 
 <ul>
  <li><b>index.php</b></li>
+ 123456
  <li><b>info.php</b></li>
  <li><b>README.md</b></li>
 </ul>
